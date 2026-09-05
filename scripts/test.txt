@@ -1,0 +1,4 @@
+game name:game
+script name:script
+script type:universal
+keyorpaidtype:no key - free
