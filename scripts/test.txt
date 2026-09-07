@@ -4,3 +4,5 @@ script type:universal
 keyorpaidtype:no key - free
 addedby: added by dev
 linktoexecute: print("TEST SCRIPT TEST SCRIPT TEST SCRIPT")
+attention: test attention
+description: test description
