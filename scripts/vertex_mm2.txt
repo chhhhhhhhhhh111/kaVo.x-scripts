@@ -1,0 +1,10 @@
+game name:MM2
+script name:Vertex
+script type:Only for Murder Mystery 2
+keyorpaidtype:no key - free ; contains paid/premium functions
+addedby: nexOo / Developer of kaVo.x
+linktoexecute: loadstring(game:HttpGet('https://raw.smokingscripts.org/vertex.lua'))()
+attention: This script contains premium/paid features, we do not recommend you to buy any products or services from unverified sellers/sources.
+description: A good script for playing MM2.
+Contains all the necessary functionality for a comfortable gameplay.
+Script features: auto-farming, ESP files for roles and weapon drops, functions for the assassin and sheriff roles.
