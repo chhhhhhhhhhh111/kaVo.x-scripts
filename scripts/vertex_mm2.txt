@@ -1,4 +1,4 @@
-game name:MM2
+game name:Murder Mystery 2 / MM2
 script name:Vertex
 script type:Only for Murder Mystery 2
 keyorpaidtype:no key - free ; contains paid/premium functions
