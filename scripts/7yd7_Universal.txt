@@ -1,0 +1,8 @@
+game name:Universal / Cosmetic
+script name:7yd7 - Emote / Animation hub
+script type:Universal / Cosmetic
+keyorpaidtype:no key - free
+addedby: nexOo / Developer of kaVo.x
+linktoexecute: loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hub/refs/heads/Branch/GUIS/Emotes.lua"))())
+attention:
+description: A script that allows you to use animation bundles and emotes without paying for them, has a system for adding to favorites and GUI settings
